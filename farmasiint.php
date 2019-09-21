@@ -7,6 +7,7 @@
   $resim_indir  = false;                      // resimleri otomatik indirsin mi ? true-false
   $resim_dizin  = realpath(".").'/resimler';  // resimleri indireceği dizin
 
+  // test push
 
 
 
